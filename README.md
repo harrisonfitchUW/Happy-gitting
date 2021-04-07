@@ -2,6 +2,8 @@
 
 Just try out the git thing and enjoy gitting!
 
+Here is an example for how to add an image:
+
 Here is a cute dolphin:
 
 ![A cute dolphi](cute-dolphin.jpeg)
@@ -34,6 +36,6 @@ link](https://canvas.uw.edu/courses/1449798/pages/course-schedule)!
 
 ### Images: 
 
-Check the dolphine image.  The exclamation mark in front of it means
+Check the dolphin image.  The exclamation mark in front of it means
 to load the image into the text, otherwise you have just link but no
 image. 
