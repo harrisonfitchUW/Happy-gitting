@@ -6,7 +6,11 @@ Here is an example for how to add an image:
 
 Here is a cute dolphin:
 
-![A cute dolphi](cute-dolphin.jpeg)
+![A cute dolphin](cute-dolphin.jpeg)
+
+But, some dolphins are sad, like this one :(
+
+![A Sad Dolphin](sad dolphin.jpg)
 
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
