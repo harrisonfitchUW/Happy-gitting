@@ -10,7 +10,7 @@ Here is a cute dolphin:
 
 But, some dolphins are sad, like this one :(
 
-![A Sad Dolphin](sad dolphin.jpg)
+![A Sad Dolphin](sad-dolphin.jpeg)
 
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
